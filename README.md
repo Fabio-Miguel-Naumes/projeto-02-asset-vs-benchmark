@@ -24,7 +24,7 @@ Comparar o retorno acumulado de um ativo selecionado contra o S&P500, quantifica
 ![return_comparison](images/Comparação-ativo-e-benchmark-(Nikkei-225-e-Mitsubishi-UFJ-Financial-Group).png)
 
 ## 📝 Como Rodar
-bash
+'''bash
 git clone https://github.com/Fabio-Miguel-Naumes/projeto-02-asset-vs-benchmark.git
 cd projeto-02-asset-vs-benchmark
 python -m venv .venv && source .venv/bin/activate
