@@ -1,7 +1,5 @@
-
----
-
 ## 📘 2. Projeto 2 – Performance vs Benchmark
+
 
 # 📊 Projeto 2 – Performance vs Benchmark
 
@@ -23,11 +21,11 @@ Comparar o retorno acumulado de um ativo selecionado contra o S&P500, quantifica
 3. Métricas: volatilidade anual, Sharpe Ratio e Beta
 
 ## 📈 Demonstração
-![return_comparison](images/Retorno-acumulado-S&P-500.png)
+![return_comparison](images/Comparação-ativo-e-benchmark-(Nikkei-225-e-Mitsubishi-UFJ-Financial-Group).png)
 
 ## 📝 Como Rodar
-
-git clone https://github.com/SEU_USUARIO/projeto-02-asset-vs-benchmark.git
+bash
+git clone https://github.com/Fabio-Miguel-Naumes/projeto-02-asset-vs-benchmark.git
 cd projeto-02-asset-vs-benchmark
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
