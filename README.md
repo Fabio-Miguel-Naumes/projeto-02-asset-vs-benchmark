@@ -21,7 +21,7 @@ Comparar o retorno acumulado de um ativo selecionado contra o S&P500, quantifica
 3. Métricas: volatilidade anual, Sharpe Ratio e Beta
 
 ## 📈 Demonstração
-![return_comparison](images/Comparacao-ativo-e-benchmark-Nikkei-225-e-Mitsubishi-UFJ-Financial-Group.png)
+![performance_plot](Comparacao-ativo-e-benchmark-Nikkei-225-e-Mitsubishi-UFJ-Financial-Group.png)
 
 ## 📝 Como Rodar
 ```bash
